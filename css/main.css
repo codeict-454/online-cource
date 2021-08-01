@@ -322,7 +322,6 @@ Navbar
   /* border-top: 1px solid; */
   margin: -10px 10px;
 }
-
 .nav-links a::after {
   content: "";
   width: 0%;
